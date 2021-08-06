@@ -1,0 +1,24 @@
+:root {
+  --Orange: #d2872c;
+  --Gray: #766f68;
+}
+
+.nav-logo {
+  color: var(--Orange) !important;
+  font-size: 2em !important;
+  font-weight: bolder !important;
+}
+.content {
+  padding-top: 40px;
+}
+.content-title {
+  margin-bottom: 20px;
+  font-size: 52px;
+  color: var(--Gray);
+}
+
+.content-btn {
+  margin-top: 40px;
+  color: #fff;
+  background-color: var(--Orange);
+}
